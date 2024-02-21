@@ -4,10 +4,10 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/testCloud/pom.xml" />
-        <option value="$PROJECT_DIR$/EurekaConfig/EurekaConfig/pom.xml" />
-        <option value="$PROJECT_DIR$/Microservice1/Microservice1/pom.xml" />
-        <option value="$PROJECT_DIR$/Microservice2/Microservice2/pom.xml" />
+        <option value="$PROJECT_DIR$/GateWay/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/Microservice1/pom.xml" />
+        <option value="$PROJECT_DIR$/Microservice2/pom.xml" />
       </list>
     </option>
   </component>
